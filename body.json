@@ -1,4 +1,5 @@
-[
+{ 
+      "data" : [
       {"english": "head","french": "tête"},
       {"english": "neck","french": "cou"},
       {"english": "shoulder","french": "épaule"},
@@ -95,3 +96,4 @@
       {"english": "buttocks","french": "fesse"},
       {"english": "big toe","french": "gros orteil"}
     ]
+}
